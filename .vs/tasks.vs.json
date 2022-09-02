@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-MainWindow",
+      "appliesTo": "SpotiToMP3/MainWindow.xaml",
+      "type": "launch"
+    }
+  ]
+}
